@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white flex flex-col items-center justify-center px-4">
       <h1 className="text-3xl md:text-5xl font-light text-gray-900 mb-8 text-center leading-snug">
-        Программа привлечения <br /> мужчины уровня 💼❤️
+        Программа привлечения <br /> мужчины уровня 💶❤️
       </h1>
 
       <div className="space-y-4 w-full max-w-xs">
